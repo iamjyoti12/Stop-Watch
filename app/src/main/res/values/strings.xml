@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="stop_watch_app">Stop Watch App</string>
+    <string name="time">00.00.00</string>
+    <string name="sec_time">00.00.00</string>
+    <string name="lap">LAP</string>
+    <string name="run">RUN</string>
+</resources>
